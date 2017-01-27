@@ -1,0 +1,22 @@
+{
+  "name": "go-party-club",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "browser-sync": "latest",
+    "font-awesome": "^4.7.0",
+    "gulp": "latest",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "latest",
+    "gulp-filter": "latest",
+    "gulp-jade": "latest",
+    "gulp-sass": "latest"
+  },
+  "devDependencies": {}
+}
